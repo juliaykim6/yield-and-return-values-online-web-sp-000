@@ -1,6 +1,6 @@
 require 'pry'
 
-def hello(array)ruby lib/practicing_returns.rb
+def hello(array)
   i = 0
   collection = []
   while i < array.length
